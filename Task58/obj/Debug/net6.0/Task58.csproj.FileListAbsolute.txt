@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/bin/Debug/net6.0/Task58
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/bin/Debug/net6.0/Task58.deps.json
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/bin/Debug/net6.0/Task58.runtimeconfig.json
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/bin/Debug/net6.0/Task58.dll
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/bin/Debug/net6.0/Task58.pdb
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/obj/Debug/net6.0/Task58.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/obj/Debug/net6.0/Task58.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/obj/Debug/net6.0/Task58.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/obj/Debug/net6.0/Task58.AssemblyInfo.cs
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/obj/Debug/net6.0/Task58.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/obj/Debug/net6.0/Task58.dll
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/obj/Debug/net6.0/refint/Task58.dll
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/obj/Debug/net6.0/Task58.pdb
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/obj/Debug/net6.0/Task58.genruntimeconfig.cache
+/Users/user_1/Desktop/Seminar_CSharp_08/Task58/obj/Debug/net6.0/ref/Task58.dll
